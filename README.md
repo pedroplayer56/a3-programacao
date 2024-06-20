@@ -4,14 +4,8 @@ Este repositório contém o código e os recursos para a atividade de programaç
 
 ## Descrição
 
-Este projeto inclui scripts e programas desenvolvidos como parte da atividade de programação A3, cobrindo tópicos avançados de programação em diversas linguagens.
+Escreva um programa python que solicita as 3 notas de um aluno, calcula a média e informa se o aluno passou ou ficou em recuperação (a média para passar é 7)
 
-## Estrutura
 
-- `src/`: Código fonte.
-- `docs/`: Documentação do projeto.
-- `tests/`: Scripts de teste.
 
-## Como usar
 
-Clone o repositório e navegue pelas pastas para explorar os arquivos e scripts incluídos.
